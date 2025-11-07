@@ -1,0 +1,3 @@
+1. Prompt accept anycharacter  and create style : solved
+2. accept the refernce file and create the style as per the reference file
+3. Inner pages also created for the navbar menus.
